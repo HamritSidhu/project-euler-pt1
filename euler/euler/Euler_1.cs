@@ -23,5 +23,13 @@ namespace euler
 
             return sum;
         }
+
+        //Print answer; called in main
+        public void solve()
+        {
+            int answer = this.sumof3and5multiples(1000);
+            Console.WriteLine(answer);
+            Console.ReadLine();
+        }
     }
 }

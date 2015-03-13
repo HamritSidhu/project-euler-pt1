@@ -15,7 +15,6 @@ namespace euler
         //Solution
         public int fibEvenSum(int below)
         {
-
             int sum = 0;
             int fibOld = 0;
             int fibNew = 1;
@@ -33,6 +32,14 @@ namespace euler
             }
 
             return sum;
+        }
+
+
+        //Prints answer; called in main
+        public void solve() {
+            int answer = this.fibEvenSum(4000000);
+            Console.WriteLine(answer);
+            Console.ReadLine();
         }
 
     }
