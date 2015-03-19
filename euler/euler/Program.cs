@@ -5,9 +5,9 @@ namespace euler
 {
     class Program
     {
-        //Used to print out answers on console
+        //Used to print out answers to a solution on console
         static void Main(string[] args) { 
-            _solution2 solution = new _solution2();
+            _solution3 solution = new _solution3();
             solution.solve();
         }
     }
