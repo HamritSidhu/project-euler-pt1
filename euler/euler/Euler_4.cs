@@ -9,7 +9,7 @@ using System.Text;
 
 namespace euler
 {
-    class _solution4
+    class _solution4 : solutionInterface
     {
         public int largestPalindrome(int numDigits)
         {

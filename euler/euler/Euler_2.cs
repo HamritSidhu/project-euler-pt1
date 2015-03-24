@@ -10,7 +10,7 @@
 
 namespace euler
 {
-    class _solution2
+    class _solution2 : solutionInterface
     {
         //Solution
         public int fibEvenSum(int below)

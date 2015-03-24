@@ -4,7 +4,7 @@
 
 namespace euler
 {
-    class _solution3
+    class _solution3 : solutionInterface
     {
         public Int64 largestPrimeFactor(Int64 num) {
 

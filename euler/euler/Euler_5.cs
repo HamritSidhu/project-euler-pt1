@@ -5,7 +5,7 @@
  */
 namespace euler
 {
-    class _solution5
+    class _solution5 : solutionInterface
     {
 
         public Int64 smallestMultiple(int divisorRange) {
