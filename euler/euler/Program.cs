@@ -7,7 +7,7 @@ namespace euler
     {
         //Used to print out answers to a solution on console
         static void Main(string[] args) { 
-            _solution9 solution = new _solution9();
+            _solution10 solution = new _solution10();
             solution.solve();
         }
     }
