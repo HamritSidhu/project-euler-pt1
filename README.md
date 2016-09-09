@@ -1,2 +1,2 @@
-# Project-Euler
-My solutions to some Project Euler Problems.
+# project-euler-pt1
+My solutions to the first 11 project euler problems. Switching to python after this.
